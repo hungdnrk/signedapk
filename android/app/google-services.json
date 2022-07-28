@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "965902438559",
+    "project_id": "pushnotification-85f35",
+    "storage_bucket": "pushnotification-85f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965902438559:android:d9b13f280b5293e67552aa",
+        "android_client_info": {
+          "package_name": "com.signedapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965902438559-r2d150j62ab53jgjcbrc6qii958omgkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.signedapk",
+            "certificate_hash": "455714f62c6b7f89b7f63b7014d8e7687953dc72"
+          }
+        },
+        {
+          "client_id": "965902438559-bng8fjpien551v241f5dctai4jfc4jak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8sw6NrNC2ava0z2YNPvWUGn_pZL-o578"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965902438559-bng8fjpien551v241f5dctai4jfc4jak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965902438559-mtbpiprrasc4lg3mbu567545kht16bkg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.signedapk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
